@@ -1,2 +1,2 @@
-# mill
+# MILL
 HTTP server providing images from GeniCam Harvesters Image Acquistion library
